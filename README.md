@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @realFuShu
 - 👀 I’m interested in 3D Modeling
 - 🌱 I’m currently learning Blender
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :e-mail me at teamorrow@qq.com
 
 <!---
